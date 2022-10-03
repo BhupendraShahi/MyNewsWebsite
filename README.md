@@ -4,7 +4,7 @@
  
  The news aren't being fetched because the API subscription is free(Developer). If you want your website to fetch new then, upgrade your api plan.
  
- The local host wesite looks like the following screenshots:
+ The local host website looks like the following screenshots:
  
 ![Screenshot from 2022-10-03 23-17-59](https://user-images.githubusercontent.com/62903302/193644836-4b6e34f8-be14-4309-9a6c-699ff519e137.png)
 
